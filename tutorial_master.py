@@ -3,9 +3,9 @@ likes = list()
 dislikes = list()
 
 # update my likes list
-likes.append("Bacon")
 likes.append("Cheese")
 likes.append("Halo")
+likes.append("British Chocolate")
 
 # update my dislikes list
 dislikes.append("Smelly feet")
